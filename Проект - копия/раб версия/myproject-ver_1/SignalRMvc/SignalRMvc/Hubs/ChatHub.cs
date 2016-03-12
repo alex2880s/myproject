@@ -10,6 +10,7 @@ namespace SignalRMvc.Hubs
 {
     public class ChatHub: Hub
     {
+        string formatTime = "HH:mm";
         static List<User> Users = new List<User>();
         SqlMessageRepository messageRepository=new SqlMessageRepository();
 
@@ -39,7 +40,7 @@ namespace SignalRMvc.Hubs
                 // Посылаем сообщение всем пользователям, кроме текущего
                 Clients.AllExcept(id).onNewUserConnected(id, userName);
             }
-            SendMessage("Вошел новый пользователь " + userName+ " в " + DateTime.Now.Hour+" : "+DateTime.Now.Minute);
+            SendMessage("Вошел новый пользователь " + userName+ " в " + DateTime.Now.ToString(formatTime));
         }
 
 
@@ -53,7 +54,8 @@ namespace SignalRMvc.Hubs
                 Users.Remove(item);
                 var id = Context.ConnectionId;
                 Clients.All.onUserDisconnected(id, item.Name);
-                SendMessage("Вышел пользователь " + item.Name +" " + DateTime.Now.Hour + " : " + DateTime.Now.Minute);
+            
+                SendMessage("Вышел пользователь " + item.Name +" " + DateTime.Now.ToString(formatTime));
             }
 
             return base.OnDisconnected(stopCalled);
@@ -72,11 +74,12 @@ namespace SignalRMvc.Hubs
 
         private void SendMessage(string userName)
         {
+            var id = Context.ConnectionId;
             // Получаем контекст хаба
             var context =
                 Microsoft.AspNet.SignalR.GlobalHost.ConnectionManager.GetHubContext<NotificationHub>();
             // отправляем сообщение
-            context.Clients.All.displayMessage(userName);
+            context.Clients.AllExcept(id).displayMessage(userName);
         }
 
 
