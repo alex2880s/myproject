@@ -1,0 +1,472 @@
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll.config
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\SignalRMvc.pdb
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\WebGrease.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.pdb
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.dll
+c:\users\user\documents\visual studio 2015\Projects\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.pdb
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\ApplicationInsights.config
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll.config
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\SignalRMvc.pdb
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Owin.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\WebGrease.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.dll
+C:\Users\user\Desktop\Git\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.pdb
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\ApplicationInsights.config
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\roslyn\csc.exe
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll.config
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\SignalRMvc.pdb
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Owin.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\WebGrease.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.pdb
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\EntityFramework.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Data.SqlLocalDb.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.Providers.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\EntityFramework.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Data.SqlLocalDb.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\System.Web.Providers.xml
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\ru\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\ru\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\ru\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ApplicationInsights.config
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\csc.exe
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll.config
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\SignalRMvc.pdb
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\EntityFramework.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Owin.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Data.SqlLocalDb.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Providers.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\WebGrease.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\EntityFramework.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Data.SqlLocalDb.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Providers.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.dll
+C:\Users\user\Desktop\тест 3\myproject-ver_1\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.pdb
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ApplicationInsights.config
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll.config
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\SignalRMvc.pdb
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\EntityFramework.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Owin.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Data.SqlLocalDb.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Providers.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\WebGrease.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\EntityFramework.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Data.SqlLocalDb.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Providers.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.dll
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.pdb
+C:\Users\user\Desktop\Проект\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ApplicationInsights.config
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll.config
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\SignalRMvc.pdb
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\EntityFramework.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Owin.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Data.SqlLocalDb.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Providers.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\WebGrease.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\EntityFramework.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Data.SqlLocalDb.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Providers.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.pdb
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\EntityFramework.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll

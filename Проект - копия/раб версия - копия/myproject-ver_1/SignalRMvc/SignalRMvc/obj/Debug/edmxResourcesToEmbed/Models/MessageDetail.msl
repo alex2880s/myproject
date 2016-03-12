@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище MessageHistoryModelContainer" CdmEntityContainer="MessageHistoryEntities">
+    <EntitySetMapping Name="MessageDetails">
+      <EntityTypeMapping TypeName="MessageHistoryModel.MessageDetails">
+        <MappingFragment StoreEntitySet="MessageDetails">
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Message" ColumnName="Message" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
