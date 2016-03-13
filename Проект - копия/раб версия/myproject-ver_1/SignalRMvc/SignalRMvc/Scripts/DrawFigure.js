@@ -48,6 +48,7 @@
             color:0,
             mode: 0,
             drawuser: $('#username').val(),
+         
         };
     
 
@@ -149,6 +150,7 @@
                         dataline.endY = mouseY;
                         dataline.color =color;
                         dataline.mode = mode;
+                    
                         dataline.drawuser = $('#username').val();
                         chat.server.send(dataline);
                         drawGame.startX = mouseX;

@@ -19,7 +19,7 @@ namespace SignalRDraw.Models
         public string Mode { get; set; }
         [JsonProperty("drawuser")]
         public string DrawUser { get; set; }
-
+  
 
     }
    

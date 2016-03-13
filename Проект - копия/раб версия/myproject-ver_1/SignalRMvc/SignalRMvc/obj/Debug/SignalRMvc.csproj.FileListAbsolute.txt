@@ -465,8 +465,8 @@ C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ve
 C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Razor.resources.dll
 C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.dll
 C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.pdb
-C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csprojResolveAssemblyReference.cache
 C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\EntityFramework.resources.dll
 C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\EntityFramework.SqlServer.resources.dll
 C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
 C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\bin\ru\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\user\Desktop\Проект - копия\раб версия\myproject-ver_1\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csprojResolveAssemblyReference.cache

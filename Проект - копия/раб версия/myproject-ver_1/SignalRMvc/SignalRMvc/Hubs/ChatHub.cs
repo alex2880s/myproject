@@ -23,6 +23,30 @@ namespace SignalRMvc.Hubs
            
         }
 
+        ////////?????
+        public void SendPrivateMessage(string toUserId, string message)
+        {
+
+            string fromUserId = Context.ConnectionId;
+
+            var toUser = Users.FirstOrDefault(x => x.ConnectionId == toUserId);
+            var fromUser = Users.FirstOrDefault(x => x.ConnectionId == fromUserId);
+
+            if (toUser != null && fromUser != null)
+            {
+                // send to 
+                Clients.Client(toUserId).sendPrivateMessage(fromUserId, fromUser.Name, message);
+
+                // send to caller user
+                Clients.Caller.sendPrivateMessage(toUserId, fromUser.Name, message);
+            }
+
+        }
+
+        ///////?????
+
+
+
         // Подключение нового пользователя
         public void Connect(string userName)
         {
